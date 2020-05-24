@@ -1,61 +1,7 @@
 
 /* 
-for ( i = 1; i < 51; i++) {
-    var coche_i;
-        }
+No he sido capaz encontrar una manera para automatizar la definición de variables con un sufijo _1, _2,..., _50 */
 
-    NO FUNCIONA PARA DEFINIR LAS VARIABLES EN UN BUCLE */
-
-var coche_1;
-var coche_2;
-var coche_3;
-var coche_4;
-var coche_5;
-var coche_6;
-var coche_7;
-var coche_8;
-var coche_9;
-var coche_10;
-var coche_11;
-var coche_12;
-var coche_13;
-var coche_14;
-var coche_15;
-var coche_16;
-var coche_17;
-var coche_18;
-var coche_19;
-var coche_20;
-var coche_21;
-var coche_22;
-var coche_23;
-var coche_24;
-var coche_25;
-var coche_26;
-var coche_27;
-var coche_28;
-var coche_29;
-var coche_30;
-var coche_31;
-var coche_32;
-var coche_33;
-var coche_34;
-var coche_35;
-var coche_36;
-var coche_37;
-var coche_38;
-var coche_39;
-var coche_40;
-var coche_41;
-var coche_42;
-var coche_43;
-var coche_44;
-var coche_45;
-var coche_46;
-var coche_47;
-var coche_48;
-var coche_49;
-var coche_50;
 
 var marcas_coche = ["Audi", "Seat", "Ford", "Citroen", "Volksvagen"];
 
